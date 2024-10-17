@@ -10,12 +10,6 @@ Para poder ejecutar cada uno de los proyectos incluidos, asegúrate de contar co
 - **Python 3**
 - **ANTLR 4**
 
-Adicionalmente, cada proyecto incluye un archivo `requirements.txt` con las bibliotecas necesarias. Instálalas utilizando el siguiente comando:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Uso de Entorno Virtual
 
 Se recomienda usar un entorno virtual para evitar conflictos de dependencias. Si no tienes uno configurado, sigue estos pasos para crearlo y activarlo:
